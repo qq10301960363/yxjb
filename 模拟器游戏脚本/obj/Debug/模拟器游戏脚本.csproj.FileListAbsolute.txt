@@ -1,0 +1,10 @@
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\bin\Debug\模拟器游戏脚本.exe
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\bin\Debug\模拟器游戏脚本.pdb
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.csprojResolveAssemblyReference.cache
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.Form1.resources
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.Properties.Resources.resources
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.csproj.GenerateResource.Cache
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.exe
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.pdb
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\Interop.lw.dll
+F:\开发2018\模拟器游戏脚本\模拟器游戏脚本\obj\Debug\模拟器游戏脚本.csproj.ResolveComReference.cache

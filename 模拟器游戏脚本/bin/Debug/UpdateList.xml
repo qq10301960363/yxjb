@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<AutoUpdater>
+	<Description>模拟器游戏脚本 autoUpdate</Description>
+	<Updater>
+		<Url>http://tudousoft.gnway.cc/</Url>
+		<LastUpdateTime>2018-06-08</LastUpdateTime>
+	</Updater>
+	<Application applicationId = "模拟器游戏脚本">
+		<EntryPoint>模拟器游戏脚本.exe</EntryPoint>
+		<Location>.</Location>
+		<Version>2.0.3.4</Version>
+	</Application>
+	<Files>
+		<File Ver="2.0.3.6" Name= "模拟器游戏脚本.exe" />
+		<File Ver="2.0.3.6" Name= "tmp\yx_tb1.bmp" />
+		
+		
+	
+		
+	</Files>
+</AutoUpdater>
